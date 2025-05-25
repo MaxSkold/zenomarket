@@ -1,8 +1,8 @@
 # Scalable E-commerce Platform — Microservices Architecture (Go + Docker)
 
-This repository contains my solution to the [Scalable E-commerce Platform Project](https://roadmap.sh/projects/scalable-ecommerce-platform) from roadmap.sh.
-
-✅ [Project URL](https://roadmap.sh/projects/scalable-ecommerce-platform)
+## About the Project  
+ZenoMarket is a scalable e-commerce platform developed as a prototype for small-scale online retail.  
+The project is built using a microservices architecture with domain-specific logic separated into individual services: users, products, cart, orders, and payments.
 
 ---
 
